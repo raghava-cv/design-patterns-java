@@ -1,4 +1,4 @@
-<h2 id="creational-design-pattern-home">Creational Design Pattern</h2><a href="README.md#design-pattern-home">Home</a>
+<div style="display:inline"><h2 id="creational-design-pattern-home">Creational Design Pattern</h2><a href="README.md#design-pattern-home">Home</a></div>
 <div>Java 8 was released on 18th March 2014. That’s a long time ago but still many projects are running on Java 8. It’s because it was a major release with a lot of new features.</div>
 <hr>
 
