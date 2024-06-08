@@ -3,7 +3,7 @@
 <hr>
 
 <ol>
-<li><a href="creational.html">Creational Design Pattern</a></li>
+<li><a href="creational.md#creational-design-pattern-home">Creational Design Pattern</a></li>
   <li><a href="#structural-design-pattern-home">Structural Design Pattern</a></li>
   <li><a href="#behavioral-design-pattern-home">Behavioral Design Pattern</a></li>
 </ol>
