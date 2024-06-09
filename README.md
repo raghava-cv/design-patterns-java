@@ -1,5 +1,5 @@
 <h2 id="design-pattern-home">Design Patterns - Java</h2>
-<div>Java 8 was released on 18th March 2014. That’s a long time ago but still many projects are running on Java 8. It’s because it was a major release with a lot of new features.</div>
+<div>A design patterns are well-proved solution for solving the specific problem/task.</div>
 <hr>
 
 <ol>
