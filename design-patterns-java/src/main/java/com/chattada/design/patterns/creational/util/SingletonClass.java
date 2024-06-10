@@ -1,4 +1,4 @@
-package com.chattada.design.patterns.creational;
+package com.chattada.design.patterns.creational.util;
 
 public class SingletonClass {
 	

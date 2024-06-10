@@ -1,6 +1,6 @@
-package com.chattada.design.patterns;
+package com.chattada.design.patterns.creational;
 
-import com.chattada.design.patterns.creational.SingletonClass;
+import com.chattada.design.patterns.creational.util.SingletonClass;
 
 public class SingletonDesignPattern {
 
