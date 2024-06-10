@@ -1,5 +1,5 @@
 <h2 id="creational-design-pattern-home">Creational Design Pattern</h2><a href="README.md#design-pattern-home">Home</a>
-<div>Java 8 was released on 18th March 2014. That’s a long time ago but still many projects are running on Java 8. It’s because it was a major release with a lot of new features.</div>
+<div>These design patterns provide a way to create objects while hiding the creation logic, rather than instantiating objects directly using new operator. This gives program more flexibility in deciding which objects need to be created for a given use case.</div>
 <hr>
 
 <ol>
